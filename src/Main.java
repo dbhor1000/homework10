@@ -18,9 +18,9 @@ public class Main {
         ///Task 2
 
 
-        String fullNameCapital = fullName.toUpperCase();
+        String fullNameCapital2 = fullName.toUpperCase();
 
-        System.out.println("ФИО сотрудника для заполнения отчёта - " + fullNameCapital);
+        System.out.println("ФИО сотрудника для заполнения отчёта - " + fullNameCapital2);
 
 
         ///Task 3
